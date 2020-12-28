@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399757193922",
+    "project_id": "authtest-df39d",
+    "storage_bucket": "authtest-df39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399757193922:android:0598ec23d1e6c2a160c15b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399757193922-d7fdif8ahdtb3l8p3iosj9kgi773mb2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdux8qr2aWK9Zo6p4nmZHbuTpyJnmN0cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399757193922-d7fdif8ahdtb3l8p3iosj9kgi773mb2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
